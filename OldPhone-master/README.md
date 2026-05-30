@@ -26,7 +26,7 @@ This project demonstrates core C# development concepts such as object-oriented p
 
   **Steps to Run**
   1. Clone the repository:
-     git clone https://github.com/surajsingh161106/OldPhone.git
+     git clone https://github.com/sandeepkumar645-jpg/OldPhone.git
      
   3. Open the solution file in Visual Studio:
      OldPhone.sln
